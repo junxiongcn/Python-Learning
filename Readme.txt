@@ -5,3 +5,5 @@ Creating a new branch is quick and sample.
 
 Dec.26 2017: Try to get familar of git again.
 
+Git can merge some changesset.
+
